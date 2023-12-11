@@ -20,6 +20,11 @@ a {
     text-decoration: none;
     color: black;
 }
+.resume{
+    font-size: 10;
+    color: lightskyblue;
+    width: 50%;
+}
 .assign {
     background-color: grey;
     margin: 10px;
